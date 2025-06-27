@@ -1,4 +1,4 @@
-# 🔐 Password Strength Tester & Generator
+# 🔐 Password Strength Tester & Generator 
 
 A C++ console application that helps users assess the strength of their passwords and generate secure passwords based on custom criteria. Developed as a student project to promote better password hygiene and security awareness.
 
